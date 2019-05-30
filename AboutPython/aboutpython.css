@@ -1,0 +1,42 @@
+.container {
+    min-height: 1950px;
+    width: 1600px;
+    margin: 0px auto;
+    background-color: cornflowerblue;
+}
+    .img {
+        height: auto;
+        width: auto;
+        margin-right: 610px;
+    }
+    .alter {
+        display: inline-block;
+        vertical-align: top;
+    }
+    .alter p {
+        color: white;
+        font-size: 20px;
+        text-align: center;
+    }
+    .alter a {
+        color: gold;
+    }
+    .search {
+        height: 70px;
+        width: 400px;
+        background-color: gray;
+        border-radius: 15px;
+    }
+    .search input {
+        text-align: center;
+        height: 30px;
+        width: 30px;
+        margin: 15px;
+    }
+    .go_button {
+        width: 50px;
+        height: 40px;
+        border-radius: 10px;
+        background-color: darkblue;
+        color: white;
+    }
